@@ -1,6 +1,6 @@
 import { disableAll, showLoad, allowAll, hideLoad } from './style.js';
 
-const baseUrl = "https://latipharkat-api.my.id/api/otakudesu/"
+const baseUrl = "https://api-anime-rouge.vercel.app/"
 
 async function getData(data) {
     showLoad();
